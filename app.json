@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Milk Manager",
-    "slug": "milk-manager",
+    "slug": "milk-manager-app-zqqltw6vwgtfn9rwljty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,4 +34,3 @@
     }
   }
 }
-
